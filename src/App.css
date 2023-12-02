@@ -1,0 +1,9 @@
+.numpad{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 0px;
+}
+.numkey{
+    width: 20vw;
+    height: 20vw;
+}
